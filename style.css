@@ -30,3 +30,40 @@
     font-size: 20px;
     font-family: 'Comic Neue', cursive;
 }
+
+table {
+    background-color: #4EA0FF;
+    border-spacing: 0;
+
+}
+
+th {
+    color: white;
+}
+
+
+.rule1,
+.rule2 {
+    width: 20%;
+
+
+}
+
+tr {
+    text-align: left;
+}
+
+
+.rule3 {
+    width: 60%;
+
+}
+
+.section-1,
+.section-3 {
+    background-color: #B1E5F2;
+}
+
+.section-2 {
+    background-color: white;
+}
