@@ -2,15 +2,31 @@
     background-color: #4EA0FF;
     background-image: url(/img/pattern.png);
     background-size: contain;
-
-
-
-
-
 }
+
 
 .logo {
     width: 300px;
     padding-top: 50px;
 
+}
+
+.title {
+    font-size: 30px;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
+
+.under-title {
+    font-size: 20px;
+    color: #808080;
+}
+
+.part-of-text {
+    color: #20A9E5;
+}
+
+.paragraph {
+    font-size: 20px;
+    font-family: 'Comic Neue', cursive;
 }
