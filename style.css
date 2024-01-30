@@ -2,12 +2,13 @@
     background-color: #4EA0FF;
     background-image: url(img/pattern.png);
     background-size: contain;
+    padding-top: 50px;
 }
 
 
 .logo {
     width: 300px;
-    padding-top: 50px;
+
 
 }
 
